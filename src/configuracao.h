@@ -16,7 +16,7 @@
  * 0 -> Versao 1: registro de eventos SEM protecao (condicao de corrida possivel)
  * 1 -> Versao 2: registro de eventos protegido por MUTEX
  */
-#define USAR_MUTEX 0
+#define USAR_MUTEX 1
 
 /* ------------------------------------------------------------------ */
 /* Parametros do cenario simulado                                      */
